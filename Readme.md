@@ -1,1 +1,1 @@
-
+This is a high-resolution car front face image dataset collected from the website. The dataset contains 35 brands of cars, with a year range from 2007 to 2023, and the resolution of each image is 1024×768, with a total of 2879 valid samples.
